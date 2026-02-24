@@ -1,0 +1,447 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-color: #f2ceda;
+  margin: 0 auto;
+  width: 100%;
+  height: 862px;
+}
+.card {
+  margin: 0 auto;
+}
+.img {
+  margin: 0 auto;
+  margin: 10px 0px 0px 245px;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.bi {
+  color: #d23166;
+  font-size: 25px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  margin-top: -60px;
+  gap: 40px 1px;
+}
+.link {
+  color: #150101;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 18px;
+  margin: 0px 10px 10px 10px;
+}
+.ul-link {
+  display: flex;
+  list-style-type: none;
+  margin: 6px;
+}
+.btn1 {
+  display: flex;
+  justify-content: end;
+  margin: 0px 230px 0px 0px;
+}
+.btn {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+
+  border: none;
+  background-color: #d23166;
+  padding: 13px 50px;
+  border-radius: 5px;
+  margin-top: -60px;
+}
+.btn:hover{
+transition: all 1s linear;
+background-color: #0f0101;
+color: #cf0505;
+}
+.dev {
+  display: flex;
+}
+.davi {
+  margin: 250px 50px 0px 254px;
+}
+.rasm {
+  margin: 100px 0px 0px 0px;
+  position: relative;
+  display: flex;
+}
+
+.h11 {
+  font-family: "Varela Round";
+  font-weight: 600;
+  font-size: 40px;
+}
+.h12 {
+  color: #d23166;
+  font-family: "Varela Round";
+  font-weight: 600;
+  font-size: 40px;
+}
+.pra {
+  font-weight: 300;
+  font-size: 14px;
+  font-family: "Varela Round";
+  color: #0f0101;
+}
+.btn12 {
+  display: flex;
+  justify-content: end;
+  padding: 0px 320px 10px 10px;
+}
+.btnn {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+
+  border: none;
+  background-color: #d23166;
+  padding: 13px 50px;
+  border-radius: 5px;
+}
+.btnn:hover {
+  transition: all 1s linear;
+  background-color: aqua;
+}
+.dorci {
+  margin: 20px 20px 10px 145px;
+  width: 270px;
+  height: 267px;
+  padding: 48px;
+  background-color: #fff;
+  border: 1px solid #00000008;
+}
+.maaine {
+  display: flex;
+}
+.dorci {
+  text-align: center;
+  margin: 170px 20px 10px 145px;
+  width: 270px;
+  height: 267px;
+  padding: 48px;
+  background-color: #fff;
+  border: 1px solid #00000008;
+}
+.prag {
+  color: #0c0b0c;
+  font-family: "Varela Round";
+  font-weight: 500;
+  font-size: 21px;
+}
+.begtu {
+  font-family: "Varela Round";
+  font-weight: 400;
+  color: #5b5676;
+  font-size: 14px;
+}
+.kolore {
+  display: flex;
+  text-align: center;
+}
+.dorciy {
+  background-color: #fff;
+  border: 1px solid #00000008;
+  text-align: center;
+  margin: 170px 20px 10px 20px;
+  width: 270px;
+  height: 267px;
+  padding: 48px;
+}
+.pragy {
+  color: #010101;
+  font-family: "Varela Round";
+  font-weight: 500;
+  font-size: 21px;
+}
+.prat {
+  font-weight: 300;
+  font-size: 14px;
+  font-family: "Varela Round";
+  color: #150101;
+}
+.din {
+  display: flex;
+}
+.resm {
+  margin: 150px 0px 0px 0px;
+  position: relative;
+  display: flex;
+}
+.btn123 {
+  display: flex;
+  justify-content: end;
+  padding: 0px 320px 10px 10px;
+}
+.btny {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+
+  border: none;
+  background-color: #d23166;
+  padding: 13px 50px;
+  border-radius: 5px;
+}
+.btny:hover {
+  transition: all 1s linear;
+  background-color: gold;
+}
+.h14 {
+  font-family: "Varela Round";
+  font-weight: 600;
+  font-size: 40px;
+}
+.spain {
+  font-family: "Varela Round";
+  font-weight: 500;
+  font-size: 18px;
+  border-bottom: 3px solid #d23166;
+}
+.ul-linkl {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 30px 0px 0px 0px;
+}
+.linko {
+  color: #150101;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 18px;
+  margin: 0px 20px 10px 10px;
+}
+.davit {
+  margin: 70px 70px 0px 84px;
+}
+.rwsm {
+  margin: 0px 0px 0px 140px;
+  position: relative;
+  display: flex;
+}
+.btnw {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+
+  border: none;
+  background-color: #d23166;
+  padding: 13px 50px;
+  border-radius: 5px;
+}
+.btnw:hover {
+  transition: all 2s;
+  background-color: rgb(113, 8, 241);
+}
+.btnv {
+  margin: 0px 0px 0px 400px;
+}
+.deve {
+  display: flex;
+}
+.davito {
+  margin: 70px 70px 0px 140px;
+
+  flex-direction: row-reverse;
+}
+.h118 {
+  display: flex;
+  flex-direction: row-reverse;
+  font-family: "Varela Round";
+  font-weight: 600;
+  font-size: 40px;
+}
+.dell {
+   margin: 00px 00px 00px 500px;
+  color: #5b5676;
+}
+
+.pratw {
+  display: flex;
+  flex-direction: row-reverse;
+  font-weight: 300;
+  font-size: 14px;
+  font-family: "Varela Round";
+  color: #150101;
+}
+.yozu {
+  margin: 00px 00px 00px 480px;
+}
+.disple {
+  margin: 0px 0px 0px 200px;
+  display: flex;
+}
+.h13 {
+  font-weight: 400;
+  font-size: 20px;
+}
+.ped {
+  color: #010101;
+  font-family: "Varela Round";
+  margin: 0px 0px 0px 200px;
+  font-weight: 300;
+  font-size: 14px;
+}
+.pedu {
+  margin: 0px 0px 0px 200px;
+  font-weight: 400;
+  font-size: 30px;
+}
+.margin {
+  display: flex;
+  align-items: end;
+  width: 25px;
+  height: 25px;
+  margin: 0px 0px 0px 200px;
+}
+.dis {
+  display: flex;
+}
+.box {
+  width: 35px;
+  height: 35px;
+
+  border-radius: 30px;
+}
+.mar {
+  margin: -10px 10px 10px 10px;
+}
+.marginn {
+  display: flex;
+  align-items: end;
+  width: 25px;
+  height: 25px;
+  margin: 0px 0px 0px 20px;
+}
+.type {
+  display: flex;
+  margin: 00px 00px 00px 00px;
+}
+.rte {
+  margin-top: -100px;
+}
+.rusmu {
+  padding: 90px -30px 0px 30px;
+  margin: 70px 20px 20px 270px;
+  margin-top: -30px;
+}
+.auto {
+  margin: 70px 200px 200px 200px;
+}
+.aut {
+  display: flex;
+  background-color: #edc9d2;
+}
+.simpley {
+  margin: 180px 00px 00px 20px;
+}
+.hyu {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.hgf {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.chec {
+  border: none;
+  background-color: rgb(225, 229, 233);
+  padding: 17px 100px 17px 17px;
+}
+.chec:hover {
+  transition: all 2s linear;
+  background-color: rgba(141, 8, 243, 0.671);
+}
+.btn-6 {
+  background-color: #d23166;
+  color: #fff;
+  padding: 18px 30px 18px 60px;
+  border: none;
+}
+.btn-6:hover {
+  transition: all 2s linear;
+  background-color: #f8c705;
+  color: #0f0101;
+}
+.dics {
+  background-color: #010101;
+  display: flex;
+}
+.vmk {
+  margin: 40px 100px;
+}
+.ull-link {
+  color: #fff;
+  list-style-type: none;
+}
+.linksf{
+  color: #fff;
+
+}
+.gap{
+  margin: 10px;
+}
+.linkm{
+  margin: 10px;
+  font-family: 'Varela Round';
+  font-weight: 400;
+  font-size: 16px;
+  color: #fff;
+}
+.none{
+  list-style-type: none;
+  margin: 90px 10px 10px 10px;
+}
+.noner{
+   list-style-type: none;
+  margin: 90px 0px 0px 60px;
+}
+.hgfe{
+   margin: 50px;
+  
+}
+.checd{
+  border: none;
+  background-color: rgb(225, 229, 233);
+  padding: 17px 100px 17px 17px;
+}
+.checd:hover{
+  transition: all 2s linear;
+  background-color: rgb(0, 255, 4);
+}
+.btn-67{
+  
+  background-color: #d23166;
+  color: #fff;
+  padding: 18px 30px 18px 60px;
+  border: none;
+}
+.btn-67:hover {
+  transition: all 2s linear;
+  background-color: #d710ea;
+  color: #0f0101;
+}
+.h45{
+   margin: 40px 0px 0px 0px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 20px;
+}
+.mardon{
+  display: flex;
+   margin:20px 0px 0px 0px;
+}
+.rtgm{
+  margin: 20px;
+}

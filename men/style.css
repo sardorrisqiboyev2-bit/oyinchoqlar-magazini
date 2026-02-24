@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.value{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(239, 233, 233);
+    padding: 20px 200px 20px 10px;
+   
+  margin: 7px;
+  animation-name: sardor;
+  animation-duration: 1S;
+  animation-iteration-count: infinite;
+  animation-delay: 0S;
+}
+@keyframes sardor {
+  0%{
+    transform: translate(0);
+  }
+  50%{
+    transform: translatex(20PX);
+  }
+  100%{
+    transform: translate(0);
+  }
+}
+.valu{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(239, 233, 233);
+    padding: 20px 200px 20px 10px;
+   
+  margin: 7px;
+  animation-name: sardo;
+  animation-duration: 1S;
+  animation-iteration-count: infinite;
+  animation-delay: 0S;
+}
+@keyframes sardo {
+  0%{
+    transform: translate(0);
+  }
+  50%{
+    transform: translatex(20PX);
+  }
+  100%{
+    transform: translatex(30deg);
+  }
+}
+.valui{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(239, 233, 233);
+    padding: 20px 200px 50px 10px;
+   color: #fff;
+  margin: 7px;
+  animation-name: sardo;
+  animation-duration: 1S;
+  animation-iteration-count: infinite;
+  animation-delay: 0S;
+}
+@keyframes sardo {
+  0%{
+    transform: translate(0);
+  }
+  50%{
+    transform: translatex(20PX);
+  }
+  100%{
+    transform: translatex(30deg);
+  }
+}
+.rasm{
+    margin: 150px 0px 0px 130px;
+  width: 400px;
+  height: 400px;
+  border-radius: 1000px;
+}
+.body-div{
+  background-color: rgba(220, 226, 224, 0.122);
+  
+
+}
+
+.btn-11 {
+  width: 139px;
+  height: 38px;
+  top: 456px;
+  background-color: #3f8e00;
+  color: #fff;
+  opacity: 1;
+  gap: 10px;
+  padding: 0px 145px 0px 110px;
+  border-radius: 7px;
+  
+}
+.btn-11:hover {
+  background-image: linear-gradient(to right top,rgba(251, 202, 4, 0.596), rgb(5, 255, 159),rgba(10, 233, 249, 0.499),rgba(12, 12, 12, 0.481));
+}
